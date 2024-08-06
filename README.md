@@ -68,9 +68,3 @@ Sampath_Food_City_System/
 ├── Sampath_Food_City_System.py   # Main program file
 └── README.md                 # This README file
 ```
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-For any questions or issues, please contact [your email/username].
