@@ -65,6 +65,6 @@ Sampath_Food_City_System/
 ├── branches.csv              # Contains branch information
 ├── products.csv              # Contains product information
 ├── sales.csv                 # Contains sales transactions
-├── Sampath_Food_City_System.py   # Main program file
+├── App.py                    # Main program file
 └── README.md                 # This README file
 ```
